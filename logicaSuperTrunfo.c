@@ -352,7 +352,6 @@ int main() {
 	    printf("\n**************Parabens!!!***********\n");
 	    printf("\n**************Pontuacao das Cartas***********\n");
 	    printf("\nCarta 1: %d pontos\nCarta 2: %d pontos",pontosTotais1,pontosTotais2);
-	   
 	    printf("\n\n**************Comparacao Final: Super Poder***********\n");
 	    printf(superPoder1 > superPoder2 ? "Carta 1 venceu o Jogo" : "Carta 2 venceu o Jogo" );
 	    
@@ -362,7 +361,6 @@ int main() {
 	    printf("\n**************Parabens!!!***********\n");
 		printf("\n**************Pontuacao das Cartas***********\n");
 		printf("Carta 1: %d pontos\nCarta 2: %d pontos",pontosTotais1,pontosTotais2);
-	
 		printf("\n\n**************Comparacao Final: Super Poder***********\n");
 	    printf(superPoder1 > superPoder2 ? "Carta 1 venceu o Jogo" : "Carta 2 venceu o Jogo" );
 		
